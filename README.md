@@ -1,6 +1,8 @@
 # Nomdes
-Luo tyhjästä yksinkertaisia saamenkielen sanoja käyttämällä yksinkertaisia kielellisiä ohjeita:
+Luo tyhjästä yksinkertaisia saamenkielen sanoja käyttämällä yksinkertaisia kielellisiä ohjeita.
+![Kieliasu](/IMG/window.png)
 
+## Kieliasu
 ![Kieliasu](/IMG/kieliasu0.png)
 
 Alkuosa (vihreä) ja jälkiosa (punainen) esiintyvät jokaisessa sanassa eivätkä esiinny koskaan yksinään. Näiden kaikki variaatiot ovat keskenään yhteenopivia, taikka muodostaa myös kokonaisen sanan. Vihreän alkuosan edellä ei voi esiintyä muita tavuja.

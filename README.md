@@ -13,7 +13,7 @@ Tavulisä (Violetti) esiintyy vihreän ja keltaisen, tai vohreän ja punaisen ta
 
 Päätejohtimet (Turkoosi) tulee punaisen päätetavun jälkeen.
 
-![Kieliasu](/IMG/kieliasu0.png)
+![Kieliasu](/IMG/kieliasu1.png)
 
 ## Käyttö
 Ennen käyytöä tulee tehdä ohjesanasto, johon ohjelma viittaa sanojen muodostamiseksi tavuista.

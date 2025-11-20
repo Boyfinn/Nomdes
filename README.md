@@ -1,5 +1,5 @@
 # Nomdes
-Luo tyhjästä yksinkertaisia saamenkielen sanoja käyttämällä yksinkertaisia kielellisiä ohjeita.
+Luo tyhjästä yksinkertaisia saamenkielen inspiroimia sanoja käyttämällä yksinkertaisia kielellisiä ohjeita.
 ![Kieliasu](/IMG/window.png)
 
 ## Kieliasu
